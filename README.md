@@ -1,6 +1,9 @@
 # Data-Analysis-Project-1
 
-# Bellabeat Fitness Data Analysis
+# Bellabeat Fitness Data Analysis (Google Data Analytics Capstone)
+
+## Project Context
+This project was completed as part of the Google Data Analytics Professional Certificate capstone. It simulates a real-world business scenario where data analysis is used to inform marketing strategy.
 
 ## Project Overview
 This project analyzes Fitbit smart device usage data to identify trends in user activity, sedentary behavior, and fitness goal achievement. The insights are used to inform marketing strategies for Bellabeat, a health-focused wearable technology company.
@@ -14,9 +17,9 @@ Analyze smart device usage data to understand how consumers use fitness trackers
 
 ## Dataset
 - Source: Fitbit Fitness Tracker Data (Kaggle)
+- Link: https://www.kaggle.com/datasets/arashnic/fitbit
+- This dataset contains personal fitness tracking data from Fitbit users, including daily activity, steps, and calories burned.
 - Time period: March–May 2016
-- Data type: Daily activity tracking data
-
 ---
 
 ## Tools Used
