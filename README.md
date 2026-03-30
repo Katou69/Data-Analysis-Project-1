@@ -1,5 +1,3 @@
-# Data-Analysis-Project-1
-
 # Bellabeat Fitness Data Analysis (Google Data Analytics Capstone)
 
 ## Project Context
@@ -15,14 +13,14 @@ Analyze smart device usage data to understand how consumers use fitness trackers
 
 ---
 
-## Dataset
+## 📂 Dataset
 - Source: Fitbit Fitness Tracker Data (Kaggle)
 - Link: https://www.kaggle.com/datasets/arashnic/fitbit
 - This dataset contains personal fitness tracking data from Fitbit users, including daily activity, steps, and calories burned.
 - Time period: March–May 2016
 ---
 
-## Tools Used
+## 🛠 Tools Used
 - Excel
   - Data cleaning
   - PivotTables
@@ -30,7 +28,7 @@ Analyze smart device usage data to understand how consumers use fitness trackers
 
 ---
 
-## Data Cleaning & Preparation
+## 🔧 Data Cleaning & Preparation
 - Selected relevant daily-level dataset (`dailyActivity_merged`)
 - Combined multiple time periods into a single dataset
 - Removed duplicate records based on user ID and date
@@ -42,7 +40,7 @@ Analyze smart device usage data to understand how consumers use fitness trackers
 
 ---
 
-## Key Findings
+## 📊 Key Findings
 
 ### 1. Low consistency in meeting activity goals
 ![Percent of Users hitting 10k](images/10k_steps.jpg)
@@ -70,7 +68,7 @@ Analyze smart device usage data to understand how consumers use fitness trackers
 
 ---
 
-## Recommendations (Bellabeat Leaf)
+## 💡 Recommendations (Bellabeat Leaf)
 
 Based on the insights, the following strategies are recommended for the **Bellabeat Leaf** product:
 
@@ -81,14 +79,14 @@ Based on the insights, the following strategies are recommended for the **Bellab
 
 ---
 
-## Limitations
+## ⚠ Limitations
 - Dataset is not specific to Bellabeat users
 - Sample size is limited and may not represent all user groups
 - Data does not include demographic segmentation relevant to Bellabeat’s target audience
 
 ---
 
-## Visualizations
+## 📌 Visualizations
 Charts created in Excel include:
 - Average steps by day of week
 - Active vs sedentary minutes
