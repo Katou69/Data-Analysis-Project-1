@@ -93,5 +93,5 @@ Charts created in Excel include:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 This analysis shows that while users engage with fitness tracking devices, most struggle to maintain consistent activity levels. Bellabeat can leverage these insights to position its products as tools that support sustainable, everyday wellness habits rather than rigid fitness goals.
