@@ -45,20 +45,26 @@ Analyze smart device usage data to understand how consumers use fitness trackers
 ## Key Findings
 
 ### 1. Low consistency in meeting activity goals
+![Steps vs Calories](images/10k_Steps.jpg)
 - Only **31% of tracked days** reached the 10,000-step goal  
 - Indicates most users do not consistently meet recommended activity levels
 
 ### 2. High sedentary behavior
+![Steps vs Calories](images/active_vs_sedentary.jpg)
+![Steps vs Calories](images/active_vs_sedentary_pt.jpg)
 - Average active minutes: **218 minutes/day**  
 - Average sedentary minutes: **~993 minutes/day**  
 - Users spend the majority of their day inactive
 
 ### 3. Activity varies by day of week
+![Steps vs Calories](images/steps_by_weekday.jpg)
+![Steps vs Calories](images/steps_by_weekday_pt.jpg)
 - Highest activity observed on **Saturday**
 - Lowest activity observed on **Sunday**
 - Suggests inconsistent weekly activity patterns
 
 ### 4. Moderate relationship between steps and calories
+![Steps vs Calories](images/steps_vs_calories.png)
 - Correlation ≈ **0.59**
 - More steps generally lead to more calories burned, but other factors also contribute
 
